@@ -1,7 +1,6 @@
-import React from 'react'
+import React from "react"
 import Layout from "../components/layout"
 import dataJson from "../json/data"
-import "../components/presentations.css"
 
 const Presentations = () => (
   <Layout>
@@ -9,7 +8,7 @@ const Presentations = () => (
 
     {
       dataJson.presentations.map(presentation => (
-        <div style={{ maxWidth: '300px', marginBottom: '1.45rem' }}>
+        <div style={{ maxWidth: "300px", marginBottom: "1.45rem" }}>
 
           <h2>{ presentation.title }</h2>
           <img src={ presentation.image } />
