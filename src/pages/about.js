@@ -1,7 +1,8 @@
 import React from 'react'
+import Layout from "../components/layout"
 
 const AboutPage = () => (
-    <div>
+  <Layout>
       <h1>Sobre o GuruPI</h1>
       <h3>Objetivos</h3>
       <p>Divulgar e promover a linguagem de programação Ruby no estado do Piauí 
@@ -16,7 +17,7 @@ const AboutPage = () => (
         dentro do mesmo, seja racial, cultural, religiosa ou sexual de acordo com a constituição 
         brasileira. Por pessoas que estejam interessadas em ensinar, aprender e evoluir no 
         aprendizado da linguagem Ruby.</p>
-    </div>
+    </Layout>
 )
 
 export default AboutPage;
