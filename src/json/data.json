@@ -1,0 +1,14 @@
+{
+  "presentations":[
+    {
+      "title": "test",
+      "speaker": "renata",
+      "image": "https://instagram.fthe5-1.fna.fbcdn.net/v/t51.2885-15/e35/61900910_179627926366358_4475385898296110204_n.jpg?_nc_ht=instagram.fthe5-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f6C4CUFAuakAX_A1Efb&oh=ce49c9a9d4200f9e2e415363beb5f209&oe=5EBB788A"
+    },
+    {
+      "title": "test2",
+      "speaker": "akita",
+      "image": "https://instagram.fthe5-1.fna.fbcdn.net/v/t51.2885-15/e35/61900910_179627926366358_4475385898296110204_n.jpg?_nc_ht=instagram.fthe5-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=f6C4CUFAuakAX_A1Efb&oh=ce49c9a9d4200f9e2e415363beb5f209&oe=5EBB788A"
+    }
+  ]
+}
