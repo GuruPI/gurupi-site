@@ -1,9 +1,8 @@
 import React from "react"
-import { Link } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import Presentation from "../components/presentation"
+import Menu from "../components/menu"
 
 const presentation = {
   title: "Renata",
@@ -12,14 +11,17 @@ const presentation = {
 }
 
 const IndexPage = () => (
-  <Layout>
-    <SEO title="Home" />
-    <p>Grupo de Usuários de Ruby do Piauí.</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
-      <Presentation data={ presentation } />
-    </div>
-    <Link to="/page-2/">Go to page 2</Link>
-  </Layout>
+  <div>
+    <Layout>
+      <SEO title="Home" />
+      <Menu />
+      <p>Grupo de Usuários de Ruby do Piauí.</p>
+      <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+        <Presentation data={ presentation } />
+      </div>
+    </Layout>
+  </div>
+
 )
 
 export default IndexPage
