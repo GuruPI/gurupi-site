@@ -101,6 +101,9 @@ img {
   margin: 2%;
   text-align: center;
 }
+/* .menu {
+
+} */
 svg:not(:root) {
   overflow: hidden;
 }
@@ -357,6 +360,9 @@ ul {
   margin-bottom: 1.45rem;
   list-style-position: outside;
   list-style-image: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 ol {
   margin-left: 1.45rem;
@@ -524,12 +530,20 @@ th {
 }
 li {
   margin-bottom: calc(1.45rem / 2);
+  float: right;
 }
 ol li {
   padding-left: 0;
 }
 ul li {
   padding-left: 0;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 li > ol {
   margin-left: 1.45rem;
