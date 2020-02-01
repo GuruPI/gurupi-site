@@ -3,9 +3,8 @@ import Layout from "../components/layout"
 import dataJson from "../json/data"
 
 const Presentations = () => (
-  <Layout>
-    <h1>Apresentações</h1>
-
+  <div>
+    <h1><a name="presentations"> Apresentações </a></h1>
     {
       dataJson.presentations.map(presentation => (
         <div className="card">
@@ -15,7 +14,7 @@ const Presentations = () => (
         </div>
       ))
     }
-  </Layout>
+  </div>
 )
 
 export default Presentations;

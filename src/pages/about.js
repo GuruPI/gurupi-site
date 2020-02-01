@@ -2,7 +2,8 @@ import React from "react"
 import Layout from "../components/layout"
 
 const AboutPage = () => (
-  <Layout>
+  <div>
+    <hr/>
     <p>Grupo de Usuários de Ruby do Piauí.</p>
 
     <h3>Objetivos</h3>
@@ -19,7 +20,8 @@ const AboutPage = () => (
       dentro do mesmo, seja racial, cultural, religiosa ou sexual de acordo com a constituição 
       brasileira. Por pessoas que estejam interessadas em ensinar, aprender e evoluir no 
       aprendizado da linguagem Ruby.</p>
-  </Layout>
+    <hr/>
+  </div>
 )
 
 export default AboutPage;
