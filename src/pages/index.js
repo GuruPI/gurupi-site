@@ -1,13 +1,14 @@
 import React from "react"
 import Layout from "../components/layout"
 import Menu from "../components/menu"
+import Home from "../pages/home"
 import About from "../pages/about"
 import Presentations from "../pages/presentations"
 
 const IndexPage = () => (
   <div>
     <Layout>
-      <Menu />
+      <Home />
       <About />
       <Presentations />
     </Layout>
@@ -15,4 +16,4 @@ const IndexPage = () => (
 
 )
 
-export default IndexPage
+export default IndexPage;
