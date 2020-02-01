@@ -120,6 +120,9 @@ img {
 .card:hover .overlay {
   opacity: 1;
 }
+.slick-next:before, .slick-prev:before {
+  color: #000 !important;
+}
 svg:not(:root) {
   overflow: hidden;
 }
