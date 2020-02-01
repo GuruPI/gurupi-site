@@ -6,9 +6,9 @@ const Menu = () => (
   <div>
     <SEO title="Home" />
     <ul>
-      <li><Link to="/">Home</Link></li>
-      <li><Link to="/about">Sobre</Link></li>
-      <li><Link to="/presentations">Apresentações</Link></li>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">Sobre</a></li>
+      <li><a href="#presentations">Apresentações</a></li>
     </ul>
 
   </div>
