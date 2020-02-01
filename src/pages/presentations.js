@@ -4,11 +4,11 @@ import dataJson from "../json/data"
 
 const Presentations = () => (
   <div>
-    <h1><a name="presentations"> Apresentações </a></h1>
+    <h1><a name="presentations"> Palestras </a></h1>
     {
       dataJson.presentations.map(presentation => (
         <div className="card">
-          <h4>{ presentation.title }</h4>
+          <h4 className="overlay">{ presentation.title }</h4>
           <img src={ presentation.image } className="img-shrunked"/>
           <h3>{ presentation.speaker }</h3>
         </div>

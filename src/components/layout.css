@@ -92,18 +92,34 @@ img {
   height: 180px;
 }
 .card { 
-  width: 260px; 
-  height: 350px;
-  margin-bottom: 1.45rem;
+  width: 290px;
+	height: 370px;
   float: left;
-  background: #bababa;
   color: #FFF;
-  margin: 2%;
+  margin: 0.4rem;
   text-align: center;
+  position: relative;
+	padding: 20px 20px;
+	background-image: url('https://i.pinimg.com/originals/90/a1/ff/90a1ffb66e7abf05475ed10c1a84f3bb.png');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	border-radius: 10px;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  transition: all 0.5s cubic-bezier(.25,.8,.25,1);
 }
-/* .menu {
-
-} */
+.card:hover{
+  background-size: 175%;
+}
+.overlay {
+  display: grid;
+  color: #fff;
+  opacity: 0;
+  transition: all 0.5s;
+  font-family: 'Playfair Display', serif;
+}
+.card:hover .overlay {
+  opacity: 1;
+}
 svg:not(:root) {
   overflow: hidden;
 }
