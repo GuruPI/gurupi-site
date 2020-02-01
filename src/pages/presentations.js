@@ -8,12 +8,10 @@ const Presentations = () => (
 
     {
       dataJson.presentations.map(presentation => (
-        <div style={{ maxWidth: "300px", marginBottom: "1.45rem" }}>
-
-          <h2>{ presentation.title }</h2>
-          <img src={ presentation.image } />
+        <div className="card">
+          <h4>{ presentation.title }</h4>
+          <img src={ presentation.image } className="img-shrunked"/>
           <h3>{ presentation.speaker }</h3>
-
         </div>
       ))
     }
