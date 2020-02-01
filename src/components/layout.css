@@ -87,6 +87,20 @@ sup {
 img {
   border-style: none;
 }
+.img-shrunked {
+  width: 180px;
+  height: 180px;
+}
+.card { 
+  width: 260px; 
+  height: 350px;
+  margin-bottom: 1.45rem;
+  float: left;
+  background: #bababa;
+  color: #FFF;
+  margin: 2%;
+  text-align: center;
+}
 svg:not(:root) {
   overflow: hidden;
 }
