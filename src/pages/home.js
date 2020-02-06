@@ -7,7 +7,7 @@ const Home = () => (
       <img src={ icon } className="icon-home"/>
       <a name="home">
         <span className="red">G</span >rupo de <span className="red">U</span>suários
-        de <span className="red">R</span>uby do <span className="red">Pi</span>auí
+        de <span className="red">Ru</span>by do <span className="red">Pi</span>auí
       </a>
       <hr />
     </h1>
