@@ -91,10 +91,9 @@ img {
   width: 180px;
   height: 180px;
 }
-.card { 
+.card {
   width: 290px;
 	height: 370px;
-  float: left;
   color: #FFF;
   margin: 0.4rem;
   text-align: center;
@@ -122,6 +121,24 @@ img {
 }
 .slick-next:before, .slick-prev:before {
   color: #000 !important;
+}
+.presentations {
+  margin-bottom: 40px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2,1fr);
+}
+.gurupi-home {
+  font-size: 130px;
+  margin-bottom: 30px;
+}
+.icon-home {
+  width: 230px;
+  height: 200px;
+  float: right;
+}
+.red {
+  color: indianred;
 }
 svg:not(:root) {
   overflow: hidden;
