@@ -1,34 +1,19 @@
 {
   "presentations":[
     {
-      "title": "-",
-      "speaker": "Fábio Akita",
-      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQEHjD1YL5pNsg/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=vnTcot8OUv0JEhKIpUTQpIj3833Ez3YS2Z5-3plHxYE"
+      "title": "",
+      "speaker": "",
+      "image": ""
     },
     {
-      "title": "Debugando seu projeto Rails",
-      "speaker": "Renata Marques",
-      "image": "https://media-exp1.licdn.com/dms/image/C5603AQFqrWiiQTu6-A/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=Zr8BpdAYICWAKXnl_SaJ_uKCMFJwwgEnRL3vZuc3X08"
+      "title": "",
+      "speaker": "",
+      "image": ""
     },
     {
-      "title": "Come to the Dartside",
-      "speaker": "Kelven Galvão",
-      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQECUscuplYf6Q/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=gxvIcP6HEwF2Ovh1imXWXSujx1T4SeIlnE3FCUr0WG4"
-    },
-    {
-      "title": "A experiência de migrar uma aplicação Ruby on Rails para Crystal + AWS Lambda",
-      "speaker": "Eduardo Alencar",
-      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQGHps5lOEDRaw/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=H_kYw4AYK5XIc3AVoFiggP2yTSpwEzEtHSKtE1WLLSQ"
-    },
-    {
-      "title": "Melhorando a performance no React",
-      "speaker": "Neto Chaves",
-      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGt9tVjM1aebQ/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=qTBThux54a50dQK0C9msS_MEXiFFK52K2ZTe1MtbSnA"
-    },
-    {
-      "title": "Usando Variáveis de ambiente no Rails",
-      "speaker": "Renan Bona",
-      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQHp42zKUH2fzQ/profile-displayphoto-shrink_200_200/0?e=1585785600&v=beta&t=Zy9JiSiju3n1OujaRRvui-gCVHZQEwMTzCCUmY6HDAc"
+      "title": "",
+      "speaker": "",
+      "image": ""
     }
   ]
 }
