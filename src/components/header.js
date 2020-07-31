@@ -18,7 +18,7 @@ const Header = ({ siteTitle }) => (
       }}
     >
     <Menu />
-    
+
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"

@@ -1,19 +1,29 @@
 {
   "presentations":[
     {
-      "title": "",
-      "speaker": "",
-      "image": ""
+      "title": "Otimizando APIs Rails com PostgreSQL",
+      "speaker": "Samuel Flores",
+      "image": "https://media-exp1.licdn.com/dms/image/C5603AQHpWZZiiiB3Gg/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=RHU9nIXMddjJ0CyoI3WBFRvM41ngHR2DaKK2zZlvVnE"
     },
     {
-      "title": "",
-      "speaker": "",
-      "image": ""
+      "title": "React Hooks 101",
+      "speaker": "José Neto",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGt9tVjM1aebQ/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=ShB_6ugu5fPODVT8HZtIoMBPJeiGJjrPnTQNNNRxEhc"
     },
     {
-      "title": "",
-      "speaker": "",
-      "image": ""
+      "title": "O que eu aprendi sendo rejeitado em mais de 100 vagas de emprego",
+      "speaker": "Marcle Rodrigues",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEZI9GAGQygfQ/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=vIcBzBB8L-R5xwHhTR1UmJwpJxHRfeGeyFDMsDLRv6E"
+    },
+    {
+      "title": "SQL com Arel no Rails",
+      "speaker": "Lucas Hiago",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQGZNeY702ZhYg/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=44RQ7Mp62KuWtXmoNmvEMPHvNLT0lqKP-g5wy-Bs1lM"
+    },
+    {
+      "title": "Você sabe como sua linguagem de programação avalia suas operações booleanas?",
+      "speaker": "Eduardo Alencar ",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQHCczUpEyamdw/profile-displayphoto-shrink_800_800/0?e=1601510400&v=beta&t=L3ZZCA3oKOFbyC6R8dqfDBLwqipTSGreBLPRrirqS6s"
     }
   ]
 }
