@@ -12,6 +12,7 @@ const IndexPage = () => (
       <Home />
       <About />
       <Events />
+      <Presentations />
       <SimpleSlider />
     </Layout>
   </div>

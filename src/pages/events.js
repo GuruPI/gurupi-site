@@ -4,7 +4,7 @@ const Events = () => (
   <div>
     <h1><a name="events">Eventos</a></h1>
     <h4>O próximo encontro GuruPI vai acontecer
-    dia 28 de março, local a definir, das 13h às 16h</h4>
+      dia 8 de agosto, o evento vai ser online e aberto.</h4>
     <hr/>
   </div>
 )
